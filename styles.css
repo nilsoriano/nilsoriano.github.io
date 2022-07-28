@@ -90,15 +90,13 @@ div h1 {
 	background-color: lightgrey;
 	border: 1px solid black;
 	padding: 1em;
-	margin-bottom: 1em;
 	width: 50%;
 }
 #calc-screen {
 	background-color: white;
 	border: 1px solid black;
+	width: 90%;
 	padding: 1em;
-	font-size: 2em;
-	width:90%;
 }
 #calc-button-container {
 	display: flex;
@@ -109,6 +107,6 @@ div button {
 	background-color: white;
 	width: 20%;
 	border: 1px solid black;
-	margin: 1em;
+	margin: 0.5em;
 	padding: 1em;
 }
